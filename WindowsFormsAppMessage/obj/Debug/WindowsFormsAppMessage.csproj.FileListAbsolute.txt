@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\bin\Debug\WindowsFormsAppMessage.exe.config
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\bin\Debug\WindowsFormsAppMessage.exe
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\bin\Debug\WindowsFormsAppMessage.pdb
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\obj\Debug\WindowsFormsAppMessage.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\obj\Debug\WindowsFormsAppMessage.Form1.resources
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\obj\Debug\WindowsFormsAppMessage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\obj\Debug\WindowsFormsAppMessage.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\obj\Debug\WindowsFormsAppMessage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\obj\Debug\WindowsFormsAppMessage.exe
+C:\Users\Administrator\Desktop\WindowsFormsAppMessage\obj\Debug\WindowsFormsAppMessage.pdb

@@ -1,0 +1,16 @@
+1.https://blog.csdn.net/xiaoguidangjiajia/article/details/52371354
+
+
+2.注意定时器不支持windowsform 的 timer，不会触发时间循环。注意要用原生的线程timer
+
+
+3.由于demo的框架使用的是4.5的，所以输入 cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 回车 
+切换当前目录，此处需要注意的是，在C:\Windows\Microsoft.NET\Framework目录下有很多类似版本，具体去哪个目录要看项目的运行环境，例 如果是.net framework2.0则需要输入 cd C:\Windows\Microsoft.NET\Framework\v2.0.50727
+c . 输入 InstallUtil.exe E:…\TestServert.exe 回车 
+说明：E:…\TestServer.exe表示项目生成的exe文件位置
+9 – >卸载服务
+
+卸载很简单，打开cmd， 直接输入 sc delete TestServer便可.删除服务的时候，E:…\TestServert.exe这个路径必须存在，否则会删除不成功。
+
+
+https://jingyan.baidu.com/article/fa4125acb71a8628ac709226.html  步骤

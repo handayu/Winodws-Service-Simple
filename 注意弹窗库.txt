@@ -1,0 +1,7 @@
+Cjwdev.WindowsApi.dll
+
+vistar之后的操作系统是不再允许在服务里调用窗口显示的，即使在服务设置里设置了与
+桌面交互。因为涉及到账户权限问题，必须在vistar之后的win7,win10之后，加上获得windwos
+账户权限的库Cjwdev.WindowsApi.dll去显示的调用.exe窗口程序。否则，调用的.exe窗口程序
+只会显示在管理器的进程里显示在运行，但是并没有显示出真正的winform等窗口,所以必须加上
+这个库，该项目中已经加上了。
